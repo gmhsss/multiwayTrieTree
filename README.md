@@ -1,8 +1,7 @@
-# Árvores Multiway — TDE (Trie escolhida)
+# Árvores Multiway — TDE Trie
 
 Disciplina: Resolução de Problemas Estruturados em Computação — PUCPR  
-Grupo: [coloque os 4 nomes aqui]  
-Entrega: vídeo até 10 min no YouTube (link abaixo quando pronto)
+Entrega: vídeo até 10 min no YouTube (link)
 
 ## 1) Pesquisa rápida (conceitos e usos)
 - **Árvore B / B+ / B\***: árvores multiway balanceadas; usadas em **bancos de dados** para indexação em disco. B+: dados nas folhas e folhas encadeadas; B\* melhora ocupação dos nós.  
