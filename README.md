@@ -1,5 +1,5 @@
 # Sistema de Controle de Recursos (SCR)  
-Aplicação em Java voltada à **simulação de gerenciamento de recursos**, utilizando **estruturas dinâmicas** e **abordagem modular** para controle, registro e priorização de operações. Projeto projetado para disciplinas práticas de Estruturas de Dados e Programação Orientada a Objetos, com ênfase em autoria completa, eficiência e clareza de código.  
+Aplicação em Java voltada à **simulação de gerenciamento de recursos**, utilizando **estruturas dinâmicas** e **abordagem modular** para controle, registro e priorização de operações. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17%2B-blue" />
